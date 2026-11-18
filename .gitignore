@@ -1,0 +1,4 @@
+connect
+*.o 
+socketprog.c
+connect.c
